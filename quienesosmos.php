@@ -28,10 +28,10 @@
 
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav ml-auto font-weight-bold">
-			      <li class="nav-item active">
+			      <li class="nav-item ">
 			        <a class="nav-link" href="index.php">INICIO<span class="sr-only">(current)</span></a>
 			      </li>
-			      <li class="nav-item">
+			      <li class="nav-item active">
 			        <a class="nav-link" href="quienesosmos.php">QUIENES SOMOS</a>
 			      </li>
 			      <li class="nav-item dropdown">
@@ -69,7 +69,28 @@
 
 
 	<!--AQUI INICIA SLIDE INFORMATIVO-->
-	
+	<section class="bg-light">
+		<div class="container-fluid p-5">
+			<div class="row">
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3">
+					<h3 class="text-center font-weight-bold mb-4">VIDA Y OBRA DE<br>JUAN WESLEY</h3>
+						<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
+						<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis quae nemo distinctio laborum voluptates minus ex tenetur beatae architecto, corrupti saepe dolorum doloribus vero unde sit rem fugit accusamus ab perferendis! Iure voluptates maiores dolorem sunt ullam minima quae fuga cum placeat magni sed earum, accusamus mollitia numquam sint iusto laborum, eligendi eum, molestias! Cumque amet numquam optio enim qui ut voluptate placeat ad labore vitae, nulla velit dolorem expedita architecto necessitatibus corporis hic pariatur, sit voluptatum eum, totam ipsum voluptas doloribus deleniti. Saepe ut dolore perferendis, nulla. Voluptatum asperiores enim sequi neque, quasi qui repellendus magni voluptate nobis dolorem.</p>
+						<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
+				</div>
+				<div class="col-12 col-ms-12 col-md-9 col-lg-9 col-xl-9">
+					<h3 class="font-weight-bold">Iglesia Wesleyana en Ibagué</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+					<h3 class="font-weight-bold">Misión</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+					<h3 class="font-weight-bold">Visión</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+					<h3 class="font-weight-bold">Politicas de calidad</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+				</div>
+			</div>
+		</div>
+	</section>
 	<!--AQUI TERMINA EL SLIDE INFORMATIVO-->
 
 
