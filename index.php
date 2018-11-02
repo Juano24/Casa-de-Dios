@@ -162,23 +162,70 @@
 
 
 	<!--INICIA PIE DE PAGINA-->	
-	<footer class="bg-secondary">
-		<div class="container-fluid p-5 text-light">
-			<div class="row">
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ducimus, dolor ab obcaecati temporibus asperiores ad dignissimos dolorum unde fuga quae voluptates beatae quasi, voluptatum. Ducimus incidunt beatae rem, omnis! Quisquam nobis, pariatur nulla expedita aliquid repellendus laudantium voluptates aliquam quasi voluptas repellat placeat a, illum. Facilis, eos quas possimus.</p>
-				</div>
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates ab, obcaecati, eaque, accusamus dolorem a beatae mollitia quod et quae non ducimus quam aperiam vel cum quisquam enim reprehenderit sunt cupiditate ullam id quidem perspiciatis dolore molestiae. Amet dolore fuga, voluptate deleniti placeat beatae repellendus, asperiores exercitationem illo eaque libero.</p>
-				</div>
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto minus cupiditate eum quo quasi laboriosam tempore veniam repudiandae dolor aperiam iste porro amet odio eius earum tempora commodi laborum cumque, impedit nam eligendi mollitia ex nobis suscipit. Nihil consequatur accusantium asperiores fugit eos corporis odit est quae amet, iure, voluptatem.</p>
-				</div>
-			</div>
-		</div>
-		<div class="bg-dark text-light p-2">
-			<h5 class="font-weight-bold text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, facere.</h5>
-		</div>
+	<footer class="bg-dark">
+		<div class="container-footer-all">
+    	<div class="container-body">
+    		<div class="colum1">
+                    <h1>Mas informacion de la compañia</h1>
+
+                    <p>Esta compañia se dedica a la venta de software integrado con un 
+                    conjunto de cosas que no se lo que estoy escribiendo, este 
+                    texto es solo para llenara informacion en el cuadro de informacion 
+                    de la compañia.</p>
+                </div>
+                <div class="colum2">
+                    <h1>Redes Sociales</h1>
+                    <div class="fila">
+                        <img src="icon/facebook.png">
+                        <label>Siguenos en Facebook</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/twitter.png">
+                        <label>Siguenos en Twitter</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/instagram.png">
+                        <label>Siguenos en Instagram</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/google-plus.png">
+                        <label>Siguenos en Google Plus</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/pinterest.png">
+                        <label>Siguenos en Pinteres</label>
+                    </div>
+                </div>
+                <div class="colum3">
+                    <h1>Informacion Contactos</h1>
+                    <div class="fila2">
+                        <img src="icon/house.png">
+                        <label>La Romana, 
+                        Republica Dominicana
+                        Manuel del Cabral
+                        Casa # 27</label>
+                    </div>
+                    <div class="fila2">
+                        <img src="icon/smartphone.png">
+                        <label>+1-829-395-2064</label>
+                    </div>
+                    <div class="fila2">
+                        <img src="icon/contact.png">
+                         <label>Cristiancedano1030@gmail.com</label>
+                    </div>
+                </div>
+            </div>    
+        </div>       
+        <div class="container-footer">
+               <div class="footer">
+                    <div class="copyright">
+                        © 2017 Todos los Derechos Reservados | <a href="">Magtimus</a>
+                    </div>
+                    <div class="information">
+                        <a href="">Informacion Compañia</a> | <a href="">Privacion y Politica</a> | <a href="">Terminos y Condiciones</a>
+                    </div>
+                </div>
+            </div>
 	</footer>
 	<!-- TERMINA EL PIE DE PAGIA -->
 
