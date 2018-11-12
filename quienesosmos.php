@@ -73,20 +73,13 @@
 		<div class="container-fluid p-5">
 			<div class="row">
 				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3">
-					<h3 class="text-center font-weight-bold mb-4">VIDA Y OBRA DE<br>JUAN WESLEY</h3>
-						<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
-						<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis quae nemo distinctio laborum voluptates minus ex tenetur beatae architecto, corrupti saepe dolorum doloribus vero unde sit rem fugit accusamus ab perferendis! Iure voluptates maiores dolorem sunt ullam minima quae fuga cum placeat magni sed earum, accusamus mollitia numquam sint iusto laborum, eligendi eum, molestias! Cumque amet numquam optio enim qui ut voluptate placeat ad labore vitae, nulla velit dolorem expedita architecto necessitatibus corporis hic pariatur, sit voluptatum eum, totam ipsum voluptas doloribus deleniti. Saepe ut dolore perferendis, nulla. Voluptatum asperiores enim sequi neque, quasi qui repellendus magni voluptate nobis dolorem.</p>
-						<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
+					<img src="assets/img/imagenes/img3.png" alt="" class="img-fluid">
 				</div>
 				<div class="col-12 col-ms-12 col-md-9 col-lg-9 col-xl-9">
-					<h3 class="font-weight-bold">Iglesia Wesleyana en Ibagué</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
 					<h3 class="font-weight-bold">Misión</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
 					<h3 class="font-weight-bold">Visión</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
-					<h3 class="font-weight-bold">Politicas de calidad</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
+					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit minus expedita iure dolor. Distinctio voluptatibus quas quod quasi fugiat excepturi minus deleniti, mollitia, dicta recusandae veritatis in quidem obcaecati blanditiis doloremque illum quia ut optio, vel accusantium dignissimos, inventore nihil? Recusandae atque optio, ipsa rerum inventore odit, ab architecto nam eaque repellat distinctio. Ratione et eligendi aut dolorem doloribus voluptatum dignissimos a rerum non nam possimus voluptatibus obcaecati odit doloremque maxime repudiandae, labore perspiciatis officia maiores ipsa! Accusamus porro officiis natus nostrum nisi nam unde commodi expedita similique, distinctio maxime et at error assumenda ducimus quis, optio cumque aperiam.</p>
 				</div>
 			</div>
 		</div>
@@ -95,33 +88,113 @@
 
 
 	<!--INICIO SECCION-->
-	
+	<section class="bg-dark text-white">
+		<div class="container-fluid p-5">
+			<div class="row">
+				<div class="col-12 col-ms-12 col-md-9 col-lg-9 col-xl-9">
+					<h3 class="font-weight-bold">Iglesia Wesleyana</h3>
+					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut laborum tempore amet quos nam molestiae atque neque iste aperiam sit non dolorem impedit quasi voluptate eius vel, quis ut magnam ullam. Quos dolor sequi quaerat sunt iure in porro. Provident, vel dignissimos quasi aperiam in tenetur quam molestiae quod veniam laboriosam. Sint consequuntur ratione est repellat explicabo aliquid cumque. Repudiandae mollitia, dolorum quas recusandae velit suscipit ea aspernatur laboriosam illo sed? Libero alias neque blanditiis ipsum animi, incidunt quas quibusdam obcaecati. Reiciendis repudiandae ipsum, fuga aut libero architecto nulla minus corrupti! Perspiciatis maxime mollitia, iste eum optio omnis nostrum fugit adipisci cumque ut aspernatur rem, vero incidunt ratione quasi sapiente, officiis. Repellendus cupiditate beatae facilis deleniti nemo. Harum quisquam quas quis dignissimos repudiandae quia ullam, quidem veritatis, fuga earum praesentium? Non magnam velit totam voluptate unde sunt est fugit modi consequatur. Officia aspernatur tempore, quo magni, adipisci quas tempora fugiat delectus quae consectetur et iste esse autem dicta aliquam voluptate debitis atque officiis nobis, ipsa dolores, impedit inventore aut. Nihil similique deserunt vero voluptatem, ex et, provident rerum quidem quia!</p>
+					<h3 class="font-weight-bold">Vida y Obra de Juan Wesley</h3>
+					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut laborum tempore amet quos nam molestiae atque neque iste aperiam sit non dolorem impedit quasi voluptate eius vel, quis ut magnam ullam. Quos dolor sequi quaerat sunt iure in porro. Provident, vel dignissimos quasi aperiam in tenetur quam molestiae quod veniam laboriosam. Sint consequuntur ratione est repellat explicabo aliquid cumque. Repudiandae mollitia, dolorum quas recusandae velit suscipit ea aspernatur laboriosam illo sed? Libero alias neque blanditiis ipsum animi, incidunt quas quibusdam obcaecati. Reiciendis repudiandae ipsum, fuga aut libero architecto nulla minus corrupti! Perspiciatis maxime mollitia, iste eum optio omnis nostrum fugit adipisci cumque ut aspernatur rem, vero incidunt ratione quasi sapiente, officiis. Repellendus cupiditate beatae facilis deleniti nemo. Harum quisquam quas quis dignissimos repudiandae quia ullam, quidem veritatis, fuga earum praesentium? Non magnam velit totam voluptate unde sunt est fugit modi consequatur. Officia aspernatur tempore, quo magni, adipisci quas tempora fugiat delectus quae consectetur et iste esse autem dicta aliquam voluptate debitis atque officiis nobis, ipsa dolores, impedit inventore aut. Nihil similique deserunt vero voluptatem, ex et, provident rerum quidem quia!</p>
+				</div>
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3">
+					<img src="assets/img/imagenes/JW.png" alt="" class="img-fluid rounded-circle">
+					<img src="assets/img/imagenes/img2.jpg" alt="" class="img-fluid rounded-circle mt-2">
+				</div>
+			</div>
+		</div>
+	</section>
 	<!--TERMINA SECCION-->
 
 	
 	<!--INICIA SECCION 2-->
-	
+	<section class="bg-white
+	">
+		<div class="container-fluid p-5">
+			<div class="row">
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3"></div>
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3">
+					<h5 class="font-weight-bold text-center">Pastor<br>Lorem ipsum dolor sit.</h5>
+					<img src="assets/img/imagenes/JW.png" class="img-fluid rounded" alt="">
+					<p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi quia sint ducimus necessitatibus recusandae molestiae vel, distinctio dolor, non? Impedit delectus, excepturi est. Blanditiis fuga dolor sequi, omnis, distinctio culpa adipisci quo corporis nobis rem, soluta saepe. Cum, itaque. Eligendi, doloribus fugiat quisquam numquam vero dolor omnis reprehenderit officia ducimus?</p>
+				</div>
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3">
+					<h5 class="font-weight-bold text-center">Pastor<br>Lorem ipsum dolor sit.</h5>
+					<img src="assets/img/imagenes/JW.png" class="img-fluid rounded" alt="">
+					<p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eaque aspernatur ea quis voluptates rerum, nemo est, labore quaerat qui nisi mollitia, incidunt quidem velit nesciunt doloribus. Dolorum id non explicabo provident nesciunt, velit, reiciendis aperiam possimus cum atque itaque, excepturi ducimus animi sequi? Fugiat, tempora nobis ipsum exercitationem libero.</p>
+				</div>
+				<div class="col-12 col-ms-12 col-md-3 col-lg-3 col-xl-3"></div>
+			</div>
+		</div>
+	</section>
 	<!--TERMINA SECCION 2-->
 
 
 	<!--INICIA PIE DE PAGINA-->	
-	<footer class="bg-secondary">
-		<div class="container-fluid p-5 text-light">
-			<div class="row">
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ducimus, dolor ab obcaecati temporibus asperiores ad dignissimos dolorum unde fuga quae voluptates beatae quasi, voluptatum. Ducimus incidunt beatae rem, omnis! Quisquam nobis, pariatur nulla expedita aliquid repellendus laudantium voluptates aliquam quasi voluptas repellat placeat a, illum. Facilis, eos quas possimus.</p>
-				</div>
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates ab, obcaecati, eaque, accusamus dolorem a beatae mollitia quod et quae non ducimus quam aperiam vel cum quisquam enim reprehenderit sunt cupiditate ullam id quidem perspiciatis dolore molestiae. Amet dolore fuga, voluptate deleniti placeat beatae repellendus, asperiores exercitationem illo eaque libero.</p>
-				</div>
-				<div class=" col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto minus cupiditate eum quo quasi laboriosam tempore veniam repudiandae dolor aperiam iste porro amet odio eius earum tempora commodi laborum cumque, impedit nam eligendi mollitia ex nobis suscipit. Nihil consequatur accusantium asperiores fugit eos corporis odit est quae amet, iure, voluptatem.</p>
-				</div>
-			</div>
-		</div>
-		<div class="bg-dark text-light p-2">
-			<h5 class="font-weight-bold text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, facere.</h5>
-		</div>
+	<footer>
+		<div class="container-footer-all">
+    	<div class="container-body">
+    		<div class="colum1">
+                    <h1>Mas informacion de la compañia</h1>
+
+                    <p>Esta compañia se dedica a la venta de software integrado con un 
+                    conjunto de cosas que no se lo que estoy escribiendo, este 
+                    texto es solo para llenara informacion en el cuadro de informacion 
+                    de la compañia.</p>
+                </div>
+                <div class="colum2">
+                    <h1>Redes Sociales</h1>
+                    <div class="fila">
+                        <img src="icon/facebook.png">
+                        <label>Siguenos en Facebook</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/twitter.png">
+                        <label>Siguenos en Twitter</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/instagram.png">
+                        <label>Siguenos en Instagram</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/google-plus.png">
+                        <label>Siguenos en Google Plus</label>
+                    </div>
+                    <div class="fila">
+                        <img src="icon/pinterest.png">
+                        <label>Siguenos en Pinteres</label>
+                    </div>
+                </div>
+                <div class="colum3">
+                    <h1>Informacion Contactos</h1>
+                    <div class="fila2">
+                        <img src="icon/house.png">
+                        <label>La Romana, 
+                        Republica Dominicana
+                        Manuel del Cabral
+                        Casa # 27</label>
+                    </div>
+                    <div class="fila2">
+                        <img src="icon/smartphone.png">
+                        <label>+1-829-395-2064</label>
+                    </div>
+                    <div class="fila2">
+                        <img src="icon/contact.png">
+                         <label>Cristiancedano1030@gmail.com</label>
+                    </div>
+                </div>
+            </div>    
+        </div>       
+        <div class="container-footer">
+               <div class="footer">
+                    <div class="copyright">
+                        © 2017 Todos los Derechos Reservados | <a href="">Magtimus</a>
+                    </div>
+                    <div class="information">
+                        <a href="">Informacion Compañia</a> | <a href="">Privacion y Politica</a> | <a href="">Terminos y Condiciones</a>
+                    </div>
+                </div>
+            </div>
 	</footer>
 	<!-- TERMINA EL PIE DE PAGIA -->
 

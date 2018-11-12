@@ -111,35 +111,6 @@
 	</section>
 	<!--AQUI TERMINA EL SLIDE INFORMATIVO-->
 
-
-	<!--INICIO SECCION-->
-	<section>
-		<div class="container-fluid mt-5 p-5">
-			<div class="row">
-				<div class="col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<h3 class="text-center font-weight-bold mb-4">Lorem ipsum dolor.</h3>
-					<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis quae nemo distinctio laborum voluptates minus ex tenetur beatae architecto, corrupti saepe dolorum doloribus vero unde sit rem fugit accusamus ab perferendis! Iure voluptates maiores dolorem sunt ullam minima quae fuga cum placeat magni sed earum, accusamus mollitia numquam sint iusto laborum, eligendi eum, molestias! Cumque amet numquam optio enim qui ut voluptate placeat ad labore vitae, nulla velit dolorem expedita architecto necessitatibus corporis hic pariatur, sit voluptatum eum, totam ipsum voluptas doloribus deleniti. Saepe ut dolore perferendis, nulla. Voluptatum asperiores enim sequi neque, quasi qui repellendus magni voluptate nobis dolorem.</p>
-					<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
-				</div>
-				<div class="col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<h3 class="text-center font-weight-bold mb-4">Lorem ipsum dolor.</h3>
-					<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis quae nemo distinctio laborum voluptates minus ex tenetur beatae architecto, corrupti saepe dolorum doloribus vero unde sit rem fugit accusamus ab perferendis! Iure voluptates maiores dolorem sunt ullam minima quae fuga cum placeat magni sed earum, accusamus mollitia numquam sint iusto laborum, eligendi eum, molestias! Cumque amet numquam optio enim qui ut voluptate placeat ad labore vitae, nulla velit dolorem expedita architecto necessitatibus corporis hic pariatur, sit voluptatum eum, totam ipsum voluptas doloribus deleniti. Saepe ut dolore perferendis, nulla. Voluptatum asperiores enim sequi neque, quasi qui repellendus magni voluptate nobis dolorem.</p>
-					<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
-				</div>
-				<div class="col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<h3 class="text-center font-weight-bold mb-4">Lorem ipsum dolor.</h3>
-					<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis quae nemo distinctio laborum voluptates minus ex tenetur beatae architecto, corrupti saepe dolorum doloribus vero unde sit rem fugit accusamus ab perferendis! Iure voluptates maiores dolorem sunt ullam minima quae fuga cum placeat magni sed earum, accusamus mollitia numquam sint iusto laborum, eligendi eum, molestias! Cumque amet numquam optio enim qui ut voluptate placeat ad labore vitae, nulla velit dolorem expedita architecto necessitatibus corporis hic pariatur, sit voluptatum eum, totam ipsum voluptas doloribus deleniti. Saepe ut dolore perferendis, nulla. Voluptatum asperiores enim sequi neque, quasi qui repellendus magni voluptate nobis dolorem.</p>
-					<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--TERMINA SECCION-->
-
-	
 	<!--INICIA SECCION 2-->
 	<section>
 		<div class="container-fluid bg-light p-5">
@@ -150,7 +121,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-ms-12 col-md-4 col-lg-4 col-xl-4">
-					<h3 class="text-center font-weight-bold mb-4">Lorem ipsum dolor.</h3>
+					<h3 class="text-center font-weight-bold mb-4">Bienvenidos a<br>Casa de Dios</h3>
 					<img src="assets/img/imagenes/img1.jpg" alt="" class="img-fluid mx-auto d-block rounded-circle mb-4 shadow">
 					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis ullam nemo itaque excepturi suscipit unde repudiandae nesciunt ad voluptates minima recusandae illum exercitationem, neque, ut totam ratione. Consequuntur consequatur ad, nesciunt nulla, voluptate voluptates qui, natus labore facilis dolore odit, vero ea sint inventore tenetur et eligendi nobis fugit veniam.</p>
 					<button type="button" class="btn-primary font-weight-bold rounded">Ver mas</button>
@@ -161,8 +132,30 @@
 	<!--TERMINA SECCION 2-->
 
 
+	<!--INICIO SECCION-->
+	<section>
+		<div class="container-fluid mt-5 p-5">
+			<div class="row">
+				<div class="col-12 col-ms-12 col-md-6 col-lg-6 col-xl-6 p-4">
+					<h3 class="text-center font-weight-bold mb-4">VISIÓN 80/80</h3>
+					<img src="assets/img/iconos/logogrupos.png" alt="" class="img-fluid mx-auto d-block mb-4 rounded-circle shadow" width="200px">
+					<p class="text-justify">Visión 80/80 nace de la necesidad de una iglesia por crecer en un momentode comunión el señor revela la manera de multiplicar 80 personas de una iglesia para llevarla a ser una iglesia macro sin perder el sentido principal la santidad a Dios y la reconciliación del hombre con Dios.</p>
+					<p class="text-justify">Visión 80/80 es una manera de hacer que una persona se involucre al servicio de Dios en la iglesia local trayendo una persona por mes a la cual le debe hacer un trabajo personalizado lo cual es apoyado por un grupo de intercesores</p>
+				</div>
+				<div class="col-12 col-ms-12 col-md-6 col-lg-6 col-xl-6 p-4">
+					<h3 class="text-center font-weight-bold mb-4">GRUPOS CON PROPOSITO</h3>
+					<img src="assets/img/iconos/logogrupos.png" alt="" class="img-fluid mx-auto d-block mb-4 rounded-circle shadow" width="200px">
+					<p class="text-justify">Visión 80/80 nace de la necesidad de una iglesia por crecer en un momentode comunión el señor revela la manera de multiplicar 80 personas de una iglesia para llevarla a ser una iglesia macro sin perder el sentido principal la santidad a Dios y la reconciliación del hombre con Dios.</p>
+					<p class="text-justify">Visión 80/80 es una manera de hacer que una persona se involucre al servicio de Dios en la iglesia local trayendo una persona por mes a la cual le debe hacer un trabajo personalizado lo cual es apoyado por un grupo de intercesores</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--TERMINA SECCION-->
+
+
 	<!--INICIA PIE DE PAGINA-->	
-	<footer class="bg-dark">
+	<footer>
 		<div class="container-footer-all">
     	<div class="container-body">
     		<div class="colum1">

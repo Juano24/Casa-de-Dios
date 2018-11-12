@@ -13,10 +13,19 @@
 .bg-lightrans{
     background: #ffffff55;
 }
-
+.link-a{
+    text-decoration: none;
+    color: #ffffff;
+}
+#header{
+    background-image: url(../img/fondo/fondoprincipal.png);
+    
+    
+    background-attachment:fixed;
+}
 footer{
+    background-color: #0B0832;
     width: 100%;
-    background: #202020;
     color: white;   
     
 }
